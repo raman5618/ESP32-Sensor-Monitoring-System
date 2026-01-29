@@ -10,3 +10,7 @@ Technologies:
 
 Usage:
   Sensor data is printed via Serial Monitor.
+
+  • ESP32-based sensor monitoring system
+  • Reads analog sensor values and outputs data
+  • Foundation for IoT and AI-based systems
